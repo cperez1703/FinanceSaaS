@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1721327231339,
+      "tag": "0000_aberrant_wiccan",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1721328022376,
+      "tag": "0001_wonderful_odin",
+      "breakpoints": true
+    }
+  ]
+}
