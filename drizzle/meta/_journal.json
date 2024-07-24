@@ -15,6 +15,13 @@
       "when": 1721328022376,
       "tag": "0001_wonderful_odin",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1721843371268,
+      "tag": "0002_spotty_vulture",
+      "breakpoints": true
     }
   ]
 }
